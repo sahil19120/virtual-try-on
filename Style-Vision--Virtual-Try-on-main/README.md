@@ -28,5 +28,10 @@ Give the necessary inputs to get desired output.
 4. Social Media Integration
 5. Virtual Styling Services
 
+ # Improvements Made
+- Structured the project repository
+- Enhanced documentation and project organization
+- Improved project usability and setup workflow
+
 # Contributions
 Contributions are welcome! Please feel free to open an issue or submit a pull request.
